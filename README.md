@@ -23,12 +23,12 @@
 
 ## :pushpin: Projects
 ### 1. [SpaceRentalUnmannedSystem](https://github.com/SpaceRentalUnmannedSystem/SRUS)
->고퀄리티 개발 컨텐츠 공유 서비스 (개인 프로젝트)  
+>무인대여함 대여 서비스 (팀 프로젝트)  
 >개발 기간: 2019.2.18 ~ 2019.4.5  
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>Java 8 / Spring Boot / Gradle / Mybatis / MySQL  
+>HTML / JavaScript / CSS / JSP
 >  
 >[프로젝트 상세 설명](https://github.com/SpaceRentalUnmannedSystem/SRUS) 참고
 
