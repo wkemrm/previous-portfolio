@@ -15,9 +15,8 @@
 </br>
 
 ## :pushpin: Contact
-- 이메일: wkemrm@gmail.com
-- 블로그: https://ryan-han.com
-- 깃헙: https://github.com/integerous
+- 이메일: wkemrm12@naver.com
+- 깃헙: https://github.com/wkemrm
 
 </br>
 
