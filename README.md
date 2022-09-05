@@ -1,56 +1,40 @@
 # 이동연 포트폴리오
->항상 누구보다 성실하고 열정적인 신입 개발자입니다.
 
-</br>
-
-## :pushpin: Intro
-안녕하세요. 저는 졸업을 앞둔 미래의 개발자입니다.
+> 항상 배우려고 노력하는 개발자 이동연입니다.
 
 
-저의 요즘 관심사는 스프링, JPA, 테스트 코드 작성입니다.
+
+## 📌 소개
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/r0drGNK/image.jpg" alt="image" border="0" width="250"></a>
+
+- 이름 : 이동연
+- 연락처 : 010-2818-2261
+- Email : wkemrm12@naver.com
+- GitHub : https://github.com/wkemrm
 
 
-요즘 테스트 코드 작성을 해야된다는 것을 깨닫고 더욱 더 나은 코드를 작성하는 개발자가 되기 위해 노력하는 신입 개발자입니다.
 
-</br>
+## 📌 프로젝트
 
-## :pushpin: Contact
-- 이메일: wkemrm12@naver.com
-- 깃헙: https://github.com/wkemrm
+### 1. [프로젝트 매칭 서비스](https://github.com/project-matching/project-matching-backend)
 
-</br>
+> 프로젝트 진행시 디자이너, 프론트 개발자, 백엔드 개발자 등등 인원을 쉽게 매칭해 주는 서비스 (팀 프로젝트)
+> 개발 기간: 2022. 6 ~ 진행 중
+>
+> 기술 스택:
+> Java 11 / Spring Boot / Gradle / Spring Data JPA / Spring Data Redis / QueryDsl
+> H2 / MariaDB / Spring Security / Spring Security Oauth2 / Junit5 / Mockito / Jenkins / Docker / AWS EC2 / AWS S3 / AWS RDS
+>
+> [프로젝트 상세 설명](https://github.com/project-matching/project-matching-backend) 참고
 
-## :pushpin: Projects
-### 1. [SpaceRentalUnmannedSystem](https://github.com/SpaceRentalUnmannedSystem/SRUS)
->무인대여함 대여 서비스 (팀 프로젝트)  
->개발 기간: 2019.2.18 ~ 2019.4.5  
->  
->기술 스택:  
->Java 8 / Spring Boot / Gradle / Mybatis / MySQL  
->HTML / JavaScript / CSS / JSP
->  
->[프로젝트 상세 설명](https://github.com/SpaceRentalUnmannedSystem/SRUS) 참고
+### 2. [IoT를 활용한 공간 대여 서비스](https://github.com/SpaceRentalUnmannedSystem/SRUS)
 
----
-
-### 2. [두 번째 프로젝트]()
->두 번째 프로젝트 간략 소개  (팀 프로젝트)  
->개발 기간: 2020.7.18 ~ 2020.11.5  
->  
->기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
->  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
-
----
-
-### 3. [세 번째 프로젝트]()
->세 번째 프로젝트 간략 소개  (개인 프로젝트)  
->개발 기간: 2018.1.18 ~ 2018.4.5  
->  
->기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
->  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
+> 간단한 사용자 인증을 통해 일정 기간 공간을 대여해주는 서비스 (팀 프로젝트)
+> 개발 기간: 2020. 10 ~ 2020. 12
+>
+> 기술 스택:
+> Java 11 / Spring Boot / Maven / Mybatis / MySQL
+> HTML / JavaScript / CSS / JSP / JQuery
+>
+> [프로젝트 상세 설명](https://github.com/SpaceRentalUnmannedSystem/SRUS) 참고
