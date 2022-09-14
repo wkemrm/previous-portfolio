@@ -10,7 +10,7 @@
 
 - 이름 : 이동연
 - 연락처 : 010-2818-2261
-- Email : wkemrm12@naver.com
+- Email : wkemrm@gmail.com
 - GitHub : https://github.com/wkemrm  
 
 
