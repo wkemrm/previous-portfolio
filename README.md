@@ -21,7 +21,7 @@
 
 > 프로젝트 진행 시 디자이너, 프론트 개발자, 백엔드 개발자 등등 인원을 쉽게 매칭해 주는 서비스 (팀 프로젝트)
 >
-> 개발 기간 : 2022. 6 ~ 진행 중
+> 개발 기간 : 2022. 6 ~ 완료
 >
 > 기술 스택 :
 > Java 11 / Spring Boot / Gradle / Spring Data JPA / Spring Data Redis / QueryDsl /  
